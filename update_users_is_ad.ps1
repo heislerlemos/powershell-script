@@ -26,16 +26,16 @@ $csv | ForEach-Object {​​​​​​​​​​​​​set-aduser -identi
 # the csv file  should contain the  following fields :
 
 
-SamAccountName,employeeNumber
-rsanchez, 4
-andre, 7
-tiago, 10
-miguel, 3
+#SamAccountName,employeeNumber
+#rsanchez, 4
+#andre, 7
+#tiago, 10
+#miguel, 3
 
 
 
 ################################################
-Check in AD GUI if the user was altered
+#Check in AD GUI if the user was altered
 
 
 
