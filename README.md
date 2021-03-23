@@ -1,1 +1,1 @@
-# powershell-scirpts
+# powershell-scripts
