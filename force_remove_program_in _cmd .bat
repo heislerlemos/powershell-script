@@ -1,4 +1,4 @@
 
 wmic product get name 
 
-wmic product where= 'foo' call uninstall
+wmic product where name= 'foo' call uninstall
