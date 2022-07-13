@@ -1,0 +1,1 @@
+PS C:\Users\> Get-ADUser -SearchBase ",OU=Sites,DC=*,DC=l*" -Filter *  -Properties MobilePhone > phone_numbe.txt
